@@ -8,7 +8,8 @@ test('has title', async ({ page }) => {
 });
 
 test('get started link', async ({ page }) => {
-  //launch the browser in chrome
+  //launch the browser in chrome123
+  //github actions
   await page.goto('https://playwright.dev/');
 
   // Click the get started link.
